@@ -1,0 +1,16 @@
+A=input("Enter a string: ")
+n=A.lower()
+if n == n [ : : -1]:
+print("It is a Palindrome!")
+else:
+
+print("It is not a Palindrome!")
+print("length of string:",len(A))
+
+Output
+
+Enter a string: asasa
+It is a Palindrome!
+length of string: 5
+
+Code Execution Successful ===
